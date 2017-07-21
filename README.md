@@ -7,7 +7,7 @@
 __just copy the whole code and run:__
 
 ```
-npm install && npm start
+npm install && node app
 ```
 
 ## License
